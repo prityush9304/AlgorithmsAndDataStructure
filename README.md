@@ -15,7 +15,7 @@
 <a href="https://github.com/Py-Contributors/awesomeScripts/issues"><img src="https://img.shields.io/github/issues-closed-raw/py-contributors/AlgorithmsAndDataStructure?style=for-the-badge" alt="closed issues"><a/>
 <a href="https://github.com/Py-Contributors/awesomeScripts/pulls"><img src="https://img.shields.io/github/issues-pr-raw/Py-contributors/AlgorithmsAndDataStructure?style=for-the-badge" alt="open pull request"></a>
 <a href="https://github.com/Py-Contributors/awesomeScripts/pulls"><img src="https://img.shields.io/github/issues-pr-closed-raw/Py-contributors/AlgorithmsAndDataStructure?style=for-the-badge" alt="closed pull request"></a>
-</p>
+</p>kjkj khkjh khukuh
 <p align="center">
 <img src="https://img.shields.io/github/hacktoberfest/2020/py-contributors/AlgorithmsAndDataStructure?style=for-the-badge" alt="hacktoberfest">
 <a href="https://raw.githubusercontent.com/Py-Contributors/AlgorithmsAndDataStructure/master/LICENSE"><img src="https://img.shields.io/github/license/Py-Contributors/AlgorithmsAndDataStructure?style=for-the-badge" alt="MIT license"></a>
